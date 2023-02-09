@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.main-container {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
